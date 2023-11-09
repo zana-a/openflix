@@ -1,1 +1,1 @@
-# openflix
+# OpenFlix
