@@ -1,3 +1,5 @@
+import { Container } from "@/components";
+
 export default function ProfilePage() {
-  return <div>Profile</div>;
+  return <Container>Profile</Container>;
 }

@@ -1,3 +1,5 @@
+import { Container } from "@/components";
+
 export default function MoviesPage() {
-  return <div>Movies</div>;
+  return <Container>Movies</Container>;
 }

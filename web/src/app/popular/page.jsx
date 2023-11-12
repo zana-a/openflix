@@ -1,3 +1,5 @@
+import { Container } from "@/components";
+
 export default function PopularPage() {
-  return <div>Popular</div>;
+  return <Container>Popular</Container>;
 }

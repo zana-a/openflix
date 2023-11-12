@@ -1,3 +1,5 @@
+import { Container } from "@/components";
+
 export default function RootPage() {
-  return <div>Root</div>;
+  return <Container>Root</Container>;
 }

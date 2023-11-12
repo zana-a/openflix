@@ -1,3 +1,5 @@
+import { Container } from "@/components";
+
 export default function LatestPage() {
-  return <div>Latest Page</div>;
+  return <Container>Latest</Container>;
 }

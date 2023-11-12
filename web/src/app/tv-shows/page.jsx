@@ -1,3 +1,5 @@
+import { Container } from "@/components";
+
 export default function TvShowsPage() {
-  return <div>TV Shows</div>;
+  return <Container>TV Shows</Container>;
 }

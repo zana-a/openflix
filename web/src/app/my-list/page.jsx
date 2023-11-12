@@ -1,3 +1,5 @@
+import { Container } from "@/components";
+
 export default function MyListPage() {
-  return <div>My List</div>;
+  return <Container>My List</Container>;
 }
